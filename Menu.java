@@ -1,0 +1,19 @@
+
+public class Menu {
+	
+	int menuID;
+	String menuName;
+	int parentMenuID;
+	boolean isLeaf = false;
+	String slug;
+	public Menu(int menuID, String menuName, int parentMenuID, boolean isLeaf, String slug) {
+		super();
+		this.menuID = menuID;
+		this.menuName = menuName;
+		this.parentMenuID = parentMenuID;
+		this.isLeaf = isLeaf;
+		this.slug = slug;
+	}
+	
+
+}
