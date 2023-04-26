@@ -12,9 +12,9 @@ public class Main {
 				Menu shorts = new Menu(7,"Shorts",5,false,"shorts");
 				Menu jeans = new Menu(8,"Jeans",5,false,"jeans");
 			Menu wedding = new Menu(9,"WEDDING",1,false,"wedding");
-				Menu weddingDresses = new Menu(10,"Wedding Dresses",9,false,"Wedding Dresses");
-				Menu promDresses = new Menu(11,"Prom Dresses",9,false,"Prom Dresses");
-				Menu eveningDresses = new Menu(12,"Evening Dresses",9,false,"Evening Dresses");
+				Menu weddingDresses = new Menu(10,"Wedding Dresses",9,false,"wedding-dresses");
+				Menu promDresses = new Menu(11,"Prom Dresses",9,false,"prom-dresses");
+				Menu eveningDresses = new Menu(12,"Evening Dresses",9,false,"evening-dresses");
 			
 
 	}
